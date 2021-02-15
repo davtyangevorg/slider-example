@@ -1,3 +1,1 @@
-# slider-example
-this is a lochal host
- https://davtyangevorg.github.io/slider-example/.
+view site here -> https://davtyangevorg.github.io/slider-example/.
